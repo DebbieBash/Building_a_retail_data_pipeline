@@ -75,8 +75,7 @@ Using Python for pipeline automation
 Working with real-world messy retail data
 
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/retail-data-pipeline.git
-cd retail-data-pipeline](https://github.com/DebbieBash/Building_a_retail_data_pipeline)
+git clone (https://github.com/DebbieBash/Building_a_retail_data_pipeline)
 
 
 # Install dependencies
