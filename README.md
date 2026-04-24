@@ -53,9 +53,6 @@ Filter out invalid or out-of-range records
 Write the cleaned, transformed dataset to a structured output (CSV / database table)
 Confirm row counts and schema integrity post-load
 
-5. Automation
-
-Shell script wraps the pipeline for repeatable, command-line execution
 
 
 📊 Key Outputs
@@ -69,14 +66,9 @@ Pipeline execution log confirming successful run
 
 How to design a modular, reusable ETL pipeline
 Data quality checks and validation strategies in pandas
-Combining Python and Shell scripting for pipeline automation
+Using Python for pipeline automation
 Working with real-world messy retail data
 
-
-🚀 How to Run
-bash# Clone the repository
-git clone https://github.com/YOUR_USERNAME/retail-data-pipeline.git
-cd retail-data-pipeline
 
 # Install dependencies
 pip install pandas
